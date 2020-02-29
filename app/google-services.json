@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "277081074104",
+    "firebase_url": "https://quick-talk-1.firebaseio.com",
+    "project_id": "quick-talk-1",
+    "storage_bucket": "quick-talk-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277081074104:android:61627b9363bdf91517474d",
+        "android_client_info": {
+          "package_name": "edu.wm.cs.cs420.quicktalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277081074104-cldli5hv03vipub67brih6d8lr5q8p9n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.wm.cs.cs420.quicktalk",
+            "certificate_hash": "d1094aa35389158ede6e0db200c5b96a4453c769"
+          }
+        },
+        {
+          "client_id": "277081074104-gv2n4vga3v3bsco5ml3c66hlm15tohk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJGkfhvVZyox4kp5oIu_d7ieVmlIulKeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277081074104-gv2n4vga3v3bsco5ml3c66hlm15tohk9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

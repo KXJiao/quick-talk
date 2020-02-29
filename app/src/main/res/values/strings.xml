@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">QuickTalk</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="invite_code">Invite Code</string>
+    <string name="join_chatroom">Join Chatroom</string>
+    <string name="create_chatroom">Create Chatroom</string>
+    <string name="back">Back</string>
+    <string name="seed">Seed</string>
+    <string name="seed_info_text">Seed (blank for random)</string>
+    <string name="room_duration">Room duration</string>
+    <string name="generate_room">Generate Room</string>
+    <string name="generate_room_send">Generate room and send invite</string>
+    <string name="input">Input</string>
+    <string-array name="duration_array">
+        <item>1 minute</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>30 minutes</item>
+        <item>60 minutes</item>
+    </string-array>
 </resources>
